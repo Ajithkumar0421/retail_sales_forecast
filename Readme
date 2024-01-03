@@ -1,16 +1,28 @@
-👉 Key Steps:
-1️⃣ Data Understanding:
-Identified variable types and distributions.
-Handled categorical variables and missing values.
-2️⃣ EDA (Exploratory Data Analysis):
-Visualized outliers and skewness using Seaborn.
-Conducted feature engineering and identified correlated columns.
-3️⃣ Model Building and Evaluation:
-Employed machine learning techniques for robust predictions.
-4️⃣ Model GUI (Streamlit Web App):
-Created an interactive app for input and prediction visualization.
-Predict Selling Price or Lead Status (Won/Lost) effortlessly!
-🚀 Getting Started:
-Python (>=3.6) and Jupyter Notebook.
-Install dependencies: pip install -r requirements.txt.
-Clone repo and explore Jupyter notebooks in the notebooks/ directory.
+Retail Sales Prediction! 📊 Leveraging historical data and store features, I've crafted predictive models for weekly sales.
+Project Highlights:
+🔗 Data Integration:
+Merged sales, features, and store information.
+Initial cleaning with merge_and_clean.py file
+🧹 Data Cleaning and Preprocessing:
+Handled missing values and converted categorical variables.
+Check out preprocessing.py file for a seamless setup.
+🔨 Model Building:
+Implemented Random Forest, AdaBoost, and Gradient Boosting models.
+Trained Random Forest model saved as sales.pkl file
+📈 Exploratory Data Analysis (EDA):
+Dive into Jupyter Notebook for in-depth insights.
+Visualize total sales by store type and explore temperature vs. average sales.
+💡 Results and Metrics:
+Review cross-validation scores and model performance.
+Saved data includes cleaned and merged datasets.
+📚 Dependencies:
+Ensure pandas, matplotlib, seaborn, and scikit-learn are installed.
+Simply use "pip install pandas matplotlib seaborn scikit-learn."
+📊 Additional Insights:
+Explored feature importance using Random Forest.
+Handled negative weekly sales values in the cleaned dataset.
+Investigated Markdown impact and analyzed holidays' influence on sales.
+🚀 Ready to Enhance Retail Insights!
+Utilize sales.pkl for weekly sales predictions.
+Explore further through EDA visualizations.
+Uncover the secrets behind Markdowns and holidays' impact.
