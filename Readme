@@ -1,0 +1,16 @@
+👉 Key Steps:
+1️⃣ Data Understanding:
+Identified variable types and distributions.
+Handled categorical variables and missing values.
+2️⃣ EDA (Exploratory Data Analysis):
+Visualized outliers and skewness using Seaborn.
+Conducted feature engineering and identified correlated columns.
+3️⃣ Model Building and Evaluation:
+Employed machine learning techniques for robust predictions.
+4️⃣ Model GUI (Streamlit Web App):
+Created an interactive app for input and prediction visualization.
+Predict Selling Price or Lead Status (Won/Lost) effortlessly!
+🚀 Getting Started:
+Python (>=3.6) and Jupyter Notebook.
+Install dependencies: pip install -r requirements.txt.
+Clone repo and explore Jupyter notebooks in the notebooks/ directory.
